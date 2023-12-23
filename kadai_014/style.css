@@ -1,0 +1,29 @@
+*{
+  line-height:0  
+}
+html{
+     font-size: 20px;
+}
+body {
+      font-family:"Arial", "Meiryo", sans-serif;
+      text-align: center;
+}
+    h1 {
+        font-family:"Josefin Sans", sans-serif;
+        font-size:2rem;
+        letter-spacing:1.2em;
+        text-shadow:3px 2px 5px gray;
+        line-height:90%;
+        border-bottom:3px solid;rgb(115, 115, 114)
+}
+.skyblue {
+    color:skyblue;
+    line-height:40%;
+}
+
+.pink {
+       color:rgb(255, 192, 203);line-height:40%;
+}
+#bold > P {
+            font-weight: bold;
+}
